@@ -5,7 +5,7 @@
 ## 📊 주요 성과
 
 ### ✅ 실제 서비스 배포
-**DHAN Archive** (2024.12 런칭)
+**DHAN Archive** (2025.10 배포)
 - 페이지 로딩 시간 **65% 개선** (5.2초 → 1.8초)
 - 모바일 이탈률 **38% 개선** (45% → 28%)
 - 연간 운영 비용 **612만원 절감**
@@ -52,7 +52,7 @@
 
 ### 02. DHAN Archive Rebuild
 **패션 브랜드 아카이브 웹사이트 기획 및 개발**
-
+- [Full Project](https://github.com/yanggangyiplus/DHAN-Archive.git)
 ![프로젝트 대표 이미지](./02_DHAN_Archive_Rebuild/images/project-overview.png)
 *이미지 추가 예정: 실제 배포된 웹사이트 화면*
 
